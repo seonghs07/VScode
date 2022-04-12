@@ -1,3 +1,1 @@
-hello
-this is test for pulling
-check for modification
+This is test repository.
